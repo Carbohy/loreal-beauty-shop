@@ -1,0 +1,14 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- 圆形背景 -->
+  <circle cx="16" cy="16" r="16" fill="#b69364"/>
+  
+  <!-- 内圆装饰 -->
+  <circle cx="16" cy="16" r="12" fill="#ffffff" fill-opacity="0.1"/>
+  
+  <!-- 字母 L (L'Oreal 的 L) -->
+  <path d="M10 8h2.5v12h6v2.5H10V8z" fill="white"/>
+  
+  <!-- 装饰性小圆点 -->
+  <circle cx="22" cy="10" r="1.5" fill="white" fill-opacity="0.8"/>
+  <circle cx="22" cy="22" r="1" fill="white" fill-opacity="0.6"/>
+</svg>
